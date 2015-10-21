@@ -21,7 +21,7 @@ Object created with anal.MultiRR.
 A list of data frames with a summary of the model estimates for all the simulations.
 }
 \references{
-Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. An approach to estimate short-term, long-term, and reaction norm repeatability.
+Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. (2015) An approach to estimate short-term, long-term, and reaction norm repeatability. Methods in Ecology and Evolution.
 }
 \author{
 Yimen Araya

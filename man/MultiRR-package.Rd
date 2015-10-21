@@ -23,7 +23,7 @@ Yimen Araya: <yimencr@gmail.com>
 
 }
 \references{
-Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. An approach to estimate short-term, long-term, and reaction norm repeatability.
+Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. (2015) An approach to estimate short-term, long-term, and reaction norm repeatability. Methods in Ecology and Evolution.
 }
 \keyword{ package }
 \examples{

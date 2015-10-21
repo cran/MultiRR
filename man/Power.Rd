@@ -22,7 +22,7 @@ A list of data frames with the power to detect among-individual variation in int
 }
 
 \references{
-Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. An approach to estimate short-term, long-term, and reaction norm repeatability.
+Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. (2015) An approach to estimate short-term, long-term, and reaction norm repeatability. Methods in Ecology and Evolution.
 }
 \author{
 Yimen Araya

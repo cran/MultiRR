@@ -21,7 +21,7 @@ Bias(x)
 A list of data frames with the bias and relative bias for all the estimated variance components and repeatabilities.
 }
 \references{
-Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. An approach to estimate short-term, long-term, and reaction norm repeatability.
+Araya-Ajoy Y.G., Mathot, K. J., Dingemanse N. J. (2015) An approach to estimate short-term, long-term, and reaction norm repeatability. Methods in Ecology and Evolution.
 }
 \author{
 Yimen Araya
